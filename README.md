@@ -14,7 +14,7 @@ There have so much emoji,an this project about vue,if it can help you,you can fo
 此Emoji表情是基于vue和webpack开发的,通过打开 [Emoji](https://e-greehe.github.io/Emoji-Vue/common) 地址，然后选择表情，点击复制代码，然后就能把表情的代码插入到你github上想插入的地方，以前后空格的方式写入你的项目中，就能对应出现相应的效果
 
 ##  下载（git）
-克隆项目地址并下载（需要已安装 [git](https://git-scm.com/downloads) ）,点击预览[查看效果](https://e-greehe.github.io/Emoji-Vue/common）
+克隆项目地址并下载（需要已安装 [git](https://git-scm.com/downloads) ）,点击预览 [查看效果](https://e-greehe.github.io/Emoji-Vue/common）
 
 ```
     git clone git@github.com:E-GreeHe/vue-app-demo.git
